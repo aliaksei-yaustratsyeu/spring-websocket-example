@@ -44,8 +44,8 @@
     </div>
 </script>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
-<script type='text/javascript' src='http://underscorejs.org/underscore.js'></script>
+<script type='text/javascript' src='${ctx}/resources/js/vendor/jquery.js'></script>
+<script type='text/javascript' src='${ctx}/resources/js/vendor/underscore.js'></script>
 <script type='text/javascript' src='${ctx}/resources/js/vendor/utils.js'></script>
 
 <script>
